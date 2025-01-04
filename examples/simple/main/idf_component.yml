@@ -1,0 +1,6 @@
+version: "1.0.0"
+description: My hello_world example
+dependencies:
+  cdsama/buzzer:
+    version: '1.0.0'
+    override_path: '../../../'
