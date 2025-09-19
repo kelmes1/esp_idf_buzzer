@@ -4,7 +4,7 @@
 // https://opensource.org/licenses/MIT
 
 #include "Buzzer.h"
-#include "HAL/ledc_ll.h"
+#include "hal/ledc_ll.h"
 #include "driver/ledc.h"
 #include "esp_log.h"
 #include "freertos/FreeRTOS.h"
