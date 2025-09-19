@@ -2,10 +2,11 @@ version: 1.0.0
 description: Passive Buzzer library for ESP32
 maintainers:
   - chendi <cdsama@gmail.com>
-url: https://github.com/cdsama/esp_idf_buzzer
-repository: https://github.com/cdsama/esp_idf_buzzer.git
+  - kelmes1 <kyran.hu@gmail.com>
+url: https://github.com/kelmes1/esp_idf_buzzer
+repository: https://github.com/kelmes1/esp_idf_buzzer.git
 license: "MIT"
 dependencies:
-  idf: ">=5.3.2"
+  idf: ">=5.5.0"
 files:
   use_gitignore: true
